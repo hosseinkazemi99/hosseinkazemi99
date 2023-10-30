@@ -14,5 +14,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hosseinkazemi99&icon=2&color=1)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=hosseinkazemi99&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
